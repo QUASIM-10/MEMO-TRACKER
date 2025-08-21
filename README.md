@@ -34,7 +34,7 @@ It allows users to **add, search, and delete memos**, with all data saved in the
 
 ## 🌐 Live Demo
 
-👉 [Hosted on GitHub Pages](https://your-username.github.io/memo-tracker/)
+👉 [Hosted on GitHub Pages](https://quasim-10.github.io/MEMO-TRACKER/)
 
 ---
 
